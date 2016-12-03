@@ -1,13 +1,17 @@
 # Welcome to Jekyll!
 title: Erika & Mark's Wedding
+timezone: America/Los_Angeles
+collections:
+  uploads:
+    title: Uploads
+    output: true
 email: web.art@adriandiaz.ca
-description: > # this means to ignore newlines until "baseurl:"
-  Save the date: May 6, 2017.
+description:  "Erika Diaz and Mark Fairey's Wedding | Save the date: May 6, 2017"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://erika-mark.com" # the base hostname & protocol for your site
                               # http://localhost:4000
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ONZOart
+github_username:  adriandgr
 gems:
   - jekyll-sitemap
 
